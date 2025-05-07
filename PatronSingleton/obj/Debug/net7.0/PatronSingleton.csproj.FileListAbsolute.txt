@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net7.0\PatronSingleton.exe
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net7.0\PatronSingleton.deps.json
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net7.0\PatronSingleton.runtimeconfig.json
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net7.0\PatronSingleton.dll
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\bin\Debug\net7.0\PatronSingleton.pdb
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.AssemblyInfo.cs
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.dll
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\refint\PatronSingleton.dll
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.pdb
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\PatronSingleton.genruntimeconfig.cache
+C:\Users\PC\source\repos\PatronSingleton\PatronSingleton\obj\Debug\net7.0\ref\PatronSingleton.dll
